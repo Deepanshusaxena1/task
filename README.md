@@ -3,6 +3,8 @@
 ## Steps to Clone the repository:
 Run `git clone https://github.com/Deepanshusaxena1/task.git`
 
+Run `cd task`
+
 ## Steps To Run the Code:
 Please follow these steps to run the code:-
 
